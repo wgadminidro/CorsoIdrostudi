@@ -1,5 +1,6 @@
 from somma_valori import somma_elementi_lista
 from somma_valori import somma_elementi_lista_2
+from somma_valori import sum_list
 
 mia_lista=[1,2,3]
 print(mia_lista)
